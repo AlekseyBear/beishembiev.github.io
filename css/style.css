@@ -1,8 +1,13 @@
 h1 {
-    color: red;
-    font-size: 22px;
+    color: yellow;
+    font-size: 30px;
 }
 
+h2 {
+color: white;
+font-size: 10;
+}
 .myBtnStyle {
-    font-size: 33px;
+    font-size: 25px;
+    color: black;
 }
